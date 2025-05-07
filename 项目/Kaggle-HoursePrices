@@ -1,0 +1,9 @@
+<script>start("d:\\vscodeProject\\ML\\Kaggle-HoursePrices\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,0,"0 B",1743990519,"2025/4/7 09:48:39");</script>
+<script>addRow("个人实现 copy.ipynb","%E4%B8%AA%E4%BA%BA%E5%AE%9E%E7%8E%B0%20copy.ipynb",0,821413,"802 kB",1744114470,"2025/4/8 20:14:30");</script>
+<script>addRow("个人实现.ipynb","%E4%B8%AA%E4%BA%BA%E5%AE%9E%E7%8E%B0.ipynb",0,811856,"793 kB",1744078329,"2025/4/8 10:12:09");</script>
+<script>addRow("Hourse Prices.ipynb","Hourse%20Prices.ipynb",0,182634,"178 kB",1743990511,"2025/4/7 09:48:31");</script>
+<script>addRow("HoursePrices.py","HoursePrices.py",0,11507,"11.2 kB",1743990511,"2025/4/7 09:48:31");</script>
+<script>addRow("README.md","README.md",0,1000,"1000 B",1743990511,"2025/4/7 09:48:31");</script>
+<script>addRow("submit.csv","submit.csv",0,35924,"35.1 kB",1744078322,"2025/4/8 10:12:02");</script>
